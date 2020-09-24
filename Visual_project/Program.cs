@@ -7,6 +7,7 @@ namespace Visual_project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!1234");
+            Console.WriteLine("Iam in Master");
         }
     }
 }
