@@ -6,7 +6,7 @@ namespace Visual_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!Master123");
+            Console.WriteLine("Hello World!Master");
         }
     }
 }
